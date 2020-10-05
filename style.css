@@ -1,0 +1,94 @@
+.bg-1{
+    background-color:#F0FFF0;
+    margin-bottom: 50px;
+}
+.btn-btn{
+    border: none;
+    background-color: #21B573; ;
+    border-radius:20px;
+    color:white;
+    margin-top: 3px;
+    padding:8px 20px ;
+}
+.nav-link{
+     color: black;
+}
+
+.cr-1{
+    color:#FD511A;
+}
+.sec-1{
+    margin-bottom: 50px;
+}
+.cr-2{
+    font-size: 48px;
+    font-weight: 700;
+}
+.cr-3{
+    color: #21b572 ;
+}
+.img-1 img{
+    width: 100%;
+    
+}
+.row-i{
+    padding: 20px 40px;
+}
+.cat-1,.cat-3,.cat-4{
+     background-color:#F8FFFB;
+     width: 270px;
+     height: 270px;
+     border-radius: 10px;
+     text-align: center;
+     padding: 50px 20px;
+}
+.cat-2{
+    box-shadow: 5px 5px 10px lightgray;
+    width: 270px;
+     height: 270px;
+     border-radius: 10px;
+     text-align: center;
+     padding: 50px 20px;
+}
+.hasan-1{
+    margin-bottom: 70px;
+}
+.text-1{
+    text-align: center;
+}
+.end-1{
+    margin-top: 40px;
+}
+.hasan-2{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 16px;
+}
+.card-1{
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 15px;
+}
+.text-2{
+    text-align: center;
+    font-weight: 700;
+}
+.pen-1{
+    padding: 30px;
+}
+.card{
+    border: none;
+}
+.pen-2{
+    padding: 20px;
+}
+footer{
+    color: white;
+}
+.bg-2{
+    background-color:black;
+    height: 250px;
+}
+footer li a {
+    color: white;
+}
+ 
